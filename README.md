@@ -1,16 +1,4 @@
 # cookadvisor
 
-CookAdvisor - is app with advices and timers for cooking.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CookAdvisor - is an app with advices and timers for cooking.
+Each of us, who are not very good in cooking, faced a problem when you want to cook something, but you don’t remember time for preparing a dish, or some features of its preparation. CookAdvisor will help you to solve this problem, and built-in timer will remind you when the dish will be done.
